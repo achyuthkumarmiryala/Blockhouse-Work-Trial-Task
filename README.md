@@ -38,4 +38,19 @@ To run the analysis yourself, please follow these steps:
 2.  **Data**: Place the original data files (`FROG_*.csv`, `SOUN_*.csv`, `CRWV_*.csv`) in the same directory as the notebook.
 3.  **Execute Notebook**: Open and run the `Blockhouse_Impact_Analysis.ipynb` notebook from top to bottom. The notebook will regenerate all the analysis plots and result CSVs.
 
+## 🧪 Tools & Libraries
+
+- Python 3.10  
+- `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`  
+- Jupyter Notebook (Google Colab compatible)  
+
+## 👤 Author
+
+**Achyuth Kumar Miryala**  
+📍 Denton, TX  
+🎓 M.S. in Data Science — University of North Texas (Graduating May 2025)  
+💼 AI/ML Intern @ Crypt0nest | Data Analyst @ UNT  
+📧 achyuthkumar286@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/achyuthkumarmiryala/) | GitHub: [@achyuthkumarmiryala](https://github.com/achyuthkumarmiryala)
+
 ---
