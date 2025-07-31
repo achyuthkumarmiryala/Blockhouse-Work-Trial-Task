@@ -46,8 +46,7 @@ To run the analysis yourself, please follow these steps:
 
 ## 👤 Author
 
-**Achyuth Kumar Miryala**  
-📍 Denton, TX  
+**Achyuth Kumar Miryala**   
 🎓 M.S. in Data Science — University of North Texas (Graduating May 2025)  
 💼 AI/ML Intern @ Crypt0nest | Data Analyst @ UNT  
 📧 achyuthkumar286@gmail.com  
